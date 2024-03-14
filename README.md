@@ -1,6 +1,6 @@
 ## Cobbler CentOS7
 How to Install and Configure Cobbler on ECS CentOS 7
-[Hoskey wiki](https://www.alibabacloud.com/blog/how-to-install-and-configure-cobbler-on-ecs-centos-7_595708/)
+[Cobbler](https://www.alibabacloud.com/blog/how-to-install-and-configure-cobbler-on-ecs-centos-7_595708/)
 
 ## Hostkey INVAPI 
 Реализация простой HTML5-панели управления серверами с поддержкой IPMI
