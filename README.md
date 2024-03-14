@@ -1,10 +1,10 @@
 ## Cobbler CentOS7
 How to Install and Configure Cobbler on ECS CentOS 7
-![Hoskey wiki](https://www.alibabacloud.com/blog/how-to-install-and-configure-cobbler-on-ecs-centos-7_595708)
+[Hoskey wiki](https://www.alibabacloud.com/blog/how-to-install-and-configure-cobbler-on-ecs-centos-7_595708/)
 
 ## Hostkey INVAPI 
 Реализация простой HTML5-панели управления серверами с поддержкой IPMI
-![Hoskey wiki](https://hostkey.ru/blog/14-realizatsiya-prostoj-html5-paneli-upravleniya-serverami-s-podderzhkoj-ipmi/)
+[Hoskey wiki](https://hostkey.ru/blog/14-realizatsiya-prostoj-html5-paneli-upravleniya-serverami-s-podderzhkoj-ipmi/)
 
 HOSTKEY INVAPI — сервисная панель, позволяющую выполнять любые действия по управлению оборудованием: от заказа серверов до переустановки ОС. Панель реализована в виде одностраничного веб-приложения, а все ее функции доступны также через API. Действия пользователя и запросы к API можно отслеживать в браузере через консоль разработчика (вызывается по Ctrl + Shift + I). Это позволяет анализировать все вызовы для отладки интеграции. 
 
