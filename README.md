@@ -1,3 +1,7 @@
+## hostkey
+
+![Hoskey wiki](https://hostkey.ru/blog/14-realizatsiya-prostoj-html5-paneli-upravleniya-serverami-s-podderzhkoj-ipmi/)
+
 ## ipmi-kvm-docker
 
 ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/solarkennedy/ipmi-kvm-docker/latest)
