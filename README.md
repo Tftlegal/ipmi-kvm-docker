@@ -1,9 +1,14 @@
-## hostkey
+## Cobbler CentOS7
+How to Install and Configure Cobbler on ECS CentOS 7
+![Hoskey wiki](https://www.alibabacloud.com/blog/how-to-install-and-configure-cobbler-on-ecs-centos-7_595708)
 
+## Hostkey INVAPI 
+Реализация простой HTML5-панели управления серверами с поддержкой IPMI
 ![Hoskey wiki](https://hostkey.ru/blog/14-realizatsiya-prostoj-html5-paneli-upravleniya-serverami-s-podderzhkoj-ipmi/)
 
-## ipmi-kvm-docker
+HOSTKEY INVAPI — сервисная панель, позволяющую выполнять любые действия по управлению оборудованием: от заказа серверов до переустановки ОС. Панель реализована в виде одностраничного веб-приложения, а все ее функции доступны также через API. Действия пользователя и запросы к API можно отслеживать в браузере через консоль разработчика (вызывается по Ctrl + Shift + I). Это позволяет анализировать все вызовы для отладки интеграции. 
 
+## Ipmi-kvm-docker
 ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/solarkennedy/ipmi-kvm-docker/latest)
 ![Docker Pulls](https://img.shields.io/docker/pulls/solarkennedy/ipmi-kvm-docker)
 
